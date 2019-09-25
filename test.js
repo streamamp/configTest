@@ -1,1 +1,3 @@
-1.0.6
+// Test 101
+
+var testVariable = 'purge'
